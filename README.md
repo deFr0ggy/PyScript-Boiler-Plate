@@ -1,6 +1,8 @@
 # PyScript BoilerPlate
 
-<center><img src="./images/icon.png" height="100"></center>
+<p align="center">
+<img src="https://github.com/deFr0ggy/PyScript-Boiler-Plate/blob/main/images/icon.png" height="100">
+</p>
 
 I have been taking a look into PyScript recently for some of my personal projects and the only thing that has been very grueling for me is to write the boiler plate everytime by copying it from the official website. 
 
@@ -14,3 +16,5 @@ There are two ways to configuring this. The first option will allow you to confi
 
 1. Configuring using `User Snippets`.
 2. Configuring it as an extension. 
+
+Thanks.

@@ -4,7 +4,7 @@
 <img src="./images/icon.png" height="100">
 </p>
 
-The extension provides the very basic PyScript boiler plate.
+The extension provides the very basic PyScript boiler plates.
 
 ## Usage & Options
 The extension includes 4 ways to generate the boiler plates for PyScript as per the needs. 

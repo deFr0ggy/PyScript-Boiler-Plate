@@ -1,9 +1,9 @@
 {
     "name": "pyscript-boilerplate",
-    "displayName": "PyScript Boilerplate",
+    "displayName": "PyScript Boilerplate Generator",
     "publisher": "Kamran Saifullah",
-    "description": "Basic PySCript boilerplate generator.",
-    "version": "1",
+    "description": "Basic PySCript boilerplate generator",
+    "version": "0.0.1",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {

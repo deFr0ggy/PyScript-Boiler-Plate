@@ -1,20 +1,29 @@
-# PyScript BoilerPlate
+## Visual Studio Code PyScript Boilerplate
 
 <p align="center">
-<img src="https://github.com/deFr0ggy/PyScript-Boiler-Plate/blob/main/images/icon.png" height="100">
+<img src="./images/icon.png" height="100">
 </p>
 
-I have been taking a look into PyScript recently for some of my personal projects and the only thing that has been very grueling for me is to write the boiler plate everytime by copying it from the official website. 
+The extension provides the very basic PyScript boiler plate.
 
-https://pyscript.net/
+## Usage
 
-So, in order to make my life easy, i have compiled this extension which is going to help you quickstart with the boilerplate which can be updated as you move forward.
+Simply type `pyscript-boilerplate` in the currently opened HTML file and select the snippet from the drop down menu to select the PyScript boiler plate. 
 
-This repo contains the codebase of the same extension. 
+## Installation
 
-There are two ways to configuring this. The first option will allow you to configure the snippet by yourself and for yourself only. While, the other way is to make it available for everyone. 
+In order to install the extension the following is required to be done having assumed that you have VSCode installed on your machine or else do the following. 
 
-1. Configuring using `User Snippets`.
-2. Configuring it as an extension. 
+1. Install VSCode
+2. Launch VSCode
+3. Open the `Command Palette` by holding `CTRL+SHIFT+P` or `CTRL+P`. 
+4. Type `Install Extension` then select `Extensions: Install Extensions`
+5. Type `PyScript-BoilerPlate`
+6. Select the extension to install.
+7. Choose the extension. 
+8. Restart the VSCode. 
 
-Thanks.
+## Contact
+In case of issues/errors/suggestions, please check out the official repository. 
+
+https://github.com/deFr0ggy/PyScript-Boiler-Plate

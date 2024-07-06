@@ -3,7 +3,7 @@
     "displayName": "PyScript Boilerplate",
     "publisher": "Kamran Saifullah",
     "description": "Basic PySCript boilerplate generator.",
-    "version": "1.1.1",
+    "version": "1",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {
@@ -13,14 +13,14 @@
     "engines": {
         "vscode": "^1.90.x"
     },
-    "homepage": "<README FILE>",
+    "homepage": "https://github.com/deFr0ggy/PyScript-Boiler-Plate/blob/main/README.md",
     "bugs": {
-        "url": "https://",
-        "email": "deFr0ggy@protonmail.com"
+        "url": "https://github.com/deFr0ggy/PyScript-Boiler-Plate/issues",
+        "email": "kamransaifullah786@gmail.com"
     },
     "repository": {
         "type": "git",
-        "url": "GIT URL"
+        "url": "https://github.com/deFr0ggy/PyScript-Boiler-Plate/"
     },
     "categories": [
         "Snippets"

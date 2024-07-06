@@ -19,5 +19,25 @@
 	"</html>"
 		],
 		"description": "A very basic PyScript boiler plate code."
+	},
+
+	"pyscript-inline" : {
+		"prefix": "pyscript-inline",
+		"body" : [
+	"<py-script>",
+	"\timport sys",
+	"\tfrom pyscript import display",
+	"\tdisplay(sys.version)",
+	"</py-script>"
+		],
+		"description": "A very basic PyScript Inline boiler plate code."
+	},
+
+	"pyscript-src" : {
+		"prefix": "pyscript-src",
+		"body" : [
+			"\t<script type=\"mpy\" src=\"main.py\"></script>"
+		],
+		"description": "A very basic PyScript Source file boiler plate code."
 	}
 }

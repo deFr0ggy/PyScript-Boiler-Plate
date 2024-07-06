@@ -6,9 +6,16 @@
 
 The extension provides the very basic PyScript boiler plate.
 
+## Boiler Plate
+The boiler plate for this extenion is taken from the `PyScript Documentations` itself which can be found at below. 
+
+https://docs.pyscript.net/2024.7.1/user-guide/first-steps/
+
 ## Usage
 
 Simply type `pyscript-boilerplate` in the currently opened HTML file and select the snippet from the drop down menu to select the PyScript boiler plate. 
+
+Similarly, typing `pyscript-inline` is going to give your the boiler plate for `PyScript Inline` and `pyscript-src` for `PyScript Source File Script Tag`
 
 ## Installation
 

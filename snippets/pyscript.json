@@ -39,5 +39,34 @@
 			"<script type=\"mpy\" src=\"main.py\"></script>"
 		],
 		"description": "A very basic PyScript Source file boiler plate code."
+	},
+
+	"pyscript-combined" : {
+		"prefix": "pyscript-combined",
+		"body" : [
+	"<!doctype html>",
+	"<html>",
+	"\t<head>",
+	"\t\t<!-- Recommended meta tags -->",
+	"\t\t<meta charset=\"UTF-8\">",
+	"\t\t<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
+	"\t\t<!-- PyScript CSS -->",
+	"\t\t<link rel=\"stylesheet\" href=\"https://pyscript.net/releases/2024.7.1/core.css\">",
+	"\t\t<!-- This script tag bootstraps PyScript -->",
+	"\t\t<script type=\"module\" src=\"https://pyscript.net/releases/2024.7.1/core.js\"></script>",
+	"\t</head>",
+	"\t<body>",
+	"\t\t<!-- Inline PyScript ... -->",
+	"\t\t\t<py-script>",
+	"\t\t\timport sys",
+	"\t\t\tfrom pyscript import display",
+	"\t\t\tdisplay(sys.version)",
+	"\t\t\t</py-script>",
+	"\t\t<!-- Source File PyScript ... -->",
+	"\t\t\t<script type=\"mpy\" src=\"main.py\"></script>",
+	"\t</body>",
+	"</html>"
+		],
+		"description": "Combined PyScript Boiler Plate"
 	}
 }

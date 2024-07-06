@@ -1,0 +1,23 @@
+{
+	"pyscript-boilerplate" : {
+		"prefix": "pyscript-boilerplate",
+		"body" : [
+	"<!doctype html>",
+	"<html>",
+	"\t<head>",
+	"\t\t<!-- Recommended meta tags -->",
+	"\t\t<meta charset=\"UTF-8\">",
+	"\t\t<meta name=\"viewport\" content=\"width=device-width,initial-scale=1.0\">",
+	"\t\t<!-- PyScript CSS -->",
+	"\t\t<link rel=\"stylesheet\" href=\"https://pyscript.net/releases/2024.7.1/core.css\">",
+	"\t\t<!-- This script tag bootstraps PyScript -->",
+	"\t\t<script type=\"module\" src=\"https://pyscript.net/releases/2024.7.1/core.js\"></script>",
+	"\t</head>",
+	"\t<body>",
+	"\t\t<!-- your code goes here... -->",
+	"\t</body>",
+	"</html>"
+		],
+		"description": "A very basic HTML5 boiler plate code."
+	}
+}

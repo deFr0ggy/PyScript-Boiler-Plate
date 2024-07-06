@@ -1,0 +1,43 @@
+{
+    "name": "pyscript-boilerplate",
+    "displayName": "PyScript Boilerplate",
+    "publisher": "Kamran Saifullah",
+    "description": "Basic PySCript boilerplate generator.",
+    "version": "1.1.1",
+    "license": "MIT",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#505050",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.90.x"
+    },
+    "homepage": "<README FILE>",
+    "bugs": {
+        "url": "https://",
+        "email": "deFr0ggy@protonmail.com"
+    },
+    "repository": {
+        "type": "git",
+        "url": "GIT URL"
+    },
+    "categories": [
+        "Snippets"
+    ],
+    "keywords": [
+        "pyscript",
+        "html5",
+        "snippet",
+        "snippets",
+        "boilerplate"
+    ],
+    "contributes": {
+        "snippets": [
+            {
+                "language": "html",
+                "path": "./snippets/pyscript.json"
+            }
+        ]
+    }
+}

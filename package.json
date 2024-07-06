@@ -3,7 +3,7 @@
     "displayName": "PyScript Boilerplate Generator",
     "publisher": "KamranSaifullah",
     "description": "Basic PySCript boilerplate generator",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "license": "MIT",
     "icon": "images/icon.png",
     "galleryBanner": {

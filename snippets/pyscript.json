@@ -36,7 +36,7 @@
 	"pyscript-src" : {
 		"prefix": "pyscript-src",
 		"body" : [
-			"\t<script type=\"mpy\" src=\"main.py\"></script>"
+			"<script type=\"mpy\" src=\"main.py\"></script>"
 		],
 		"description": "A very basic PyScript Source file boiler plate code."
 	}
